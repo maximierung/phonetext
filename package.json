@@ -1,0 +1,25 @@
+{
+  "name": "phonetext",
+  "version": "0.1.0",
+  "description": "Convert numbers to text based on the telephone textpad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopfo/phonetext.git"
+  },
+  "keywords": [
+    "telephone",
+    "text",
+    "converter",
+    "phone"
+  ],
+  "author": "hopfo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hopfo/phonetext/issues"
+  },
+  "homepage": "https://github.com/hopfo/phonetext#readme"
+}
